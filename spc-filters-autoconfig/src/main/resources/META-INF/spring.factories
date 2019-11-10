@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+club.spc.filters.auto.config.SpcFilterAutoConfiguration
